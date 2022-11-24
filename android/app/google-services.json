@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "505312637640",
+    "project_id": "peshawarapp",
+    "storage_bucket": "peshawarapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505312637640:android:0ced77fb08022063db6bfd",
+        "android_client_info": {
+          "package_name": "com.example.kurdxanaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505312637640-6s5s8nr02s7kindimrcgrpl4mtlh57qg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl52HlLTrVkWZf7Ysvln_SKYyIg1fL9sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505312637640-6s5s8nr02s7kindimrcgrpl4mtlh57qg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
